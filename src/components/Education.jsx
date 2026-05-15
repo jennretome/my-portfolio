@@ -25,12 +25,12 @@ function Education() {
       date: "March 2025",
     },
     {
-      title: "Back-End & Front-End Web Development 101, Bayan Academy",
+      title: "Back-End & Front-End Web Development 101, BPI Bayan Academy",
       date: "2024",
     },
     {
       title:
-        "Mobile Application Development 101 & Data Analytics 101, Bayan Academy",
+        "Mobile Application Development 101 & Data Analytics 101, BPI Bayan Academy",
       date: "2023",
     },
   ];
