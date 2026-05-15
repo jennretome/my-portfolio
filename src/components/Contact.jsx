@@ -13,7 +13,7 @@ function Contact() {
       label: "Location",
       value: "Caloocan City, Philippines",
     },
-    { icon: <FaGithub />, label: "GitHub", value: "github.com/yourusername" },
+    { icon: <FaGithub />, label: "GitHub", value: "github.com/jennretome" },
   ];
 
   return (
