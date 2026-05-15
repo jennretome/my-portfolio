@@ -47,7 +47,7 @@ function Hero() {
             View My Work
           </a>
           <a
-            href="/Jennifer_Retome_CV.pdf"
+            href="/jennifer-retome-cv.pdf"
             download="Jennifer_Retome_CV.pdf"
             className="bg-white border border-pink-300 text-pink-400 px-6 py-3 rounded-full text-sm hover:bg-pink-50 transition-colors"
           >
